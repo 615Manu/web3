@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Evolution of Web-
 
-You can use the [editor on GitHub](https://github.com/615Manu/web3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Web 1.0
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1.  Read only Web
+2. The role of a user was limited to reading information provided by the content producers
+3. A giant library of data sourced together on a screen from computers all across the network for users to browse by clicking around linked text and images.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/615Manu/web3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Web 2.0
+1.  Social Web or read + write web
+2. Every user can be a content producers and content is distributed and shared between sites. Some of the famous Web 2.0 applications are Facebook, Youtube, Flickr, Twitter etc.,
+3. The Internet has become centralised. It's essentially a bunch of closed systems interacting with each other.
